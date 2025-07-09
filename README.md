@@ -28,20 +28,19 @@ I enjoy taking ideas from prototype to deployment, with a focus on:
 
 ---
 
-## 🛠 Tech Stack
+## 📈 GitHub Stats
 
-- **Languages:** Python, C, MATLAB, HTML/CSS  
-- **Frameworks & Tools:** ROS, OpenCV, TensorFlow, PyTorch, CoppeliaSim, Git, Arduino  
-- **Hardware:** xArm6, Raspberry Pi, RealSense D435, UAVs, embedded systems  
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-pad25&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-pad25&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Get in Touch
 
-- ✉️ [Email](mailto:daniel.padbury@connect.qut.edu.au)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-padbury/)  
-- 🧪 [Google Scholar](https://scholar.google.com/) (coming soon)  
-- 🌐 [Portfolio Website](https://your-personal-site.com) (optional)
+- 📧 Email: [daniel.padbury@connect.qut.edu.au](mailto:daniel.padbury@connect.qut.edu.au)  
+- 💼 LinkedIn: [linkedin.com/in/daniel-padbury](https://www.linkedin.com/in/daniel-padbury/)  
+- 🌱 Research Interests: Precision agriculture, robotic autonomy, AI perception
 
 ---
 
